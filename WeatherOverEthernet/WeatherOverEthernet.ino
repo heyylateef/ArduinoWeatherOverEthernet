@@ -11,7 +11,7 @@ byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
 // use the numeric IP instead of the name for the server:
 
 char server[] = "api.openweathermap.org";    // name address for weather data
-String apiKey= "54417f3a475a0961700e85b92dec57fc"; 
+String apiKey= ""; 
 
 //the city you want the weather for 
 String location= "boston,US";
